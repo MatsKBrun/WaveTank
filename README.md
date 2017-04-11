@@ -1,2 +1,2 @@
 # WaveTank
-Wavetank experiment matlab
+Wavetank experiment, matlab code
